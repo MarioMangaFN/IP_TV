@@ -21,6 +21,9 @@ http://468515598262321289.ofgd919.xyz:80/live/zh813567/VujHjvynTP/321289.m3u8
 #EXTINF:-1 tvg-id="24horas" tvg-name="24H HD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="Generalistas",24H
 http://468515598262339730.ofgd919.xyz:80/live/zh813567/VujHjvynTP/339730.m3u8
 
+#EXTINF:-1 tvg-id="teledeporte" tvg-name="Teledeporte HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TDEP" group-title="Generalistas",Teledeporte
+http://468515598262538770.ofgd919.xyz:80/live/zh813567/VujHjvynTP/538770.m3u8
+
 #EXTINF:-1 tvg-id="daznf1" tvg-name="DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportivo/DAZN",DAZN Formula 1
 http://468515598262165419.ofgd919.xyz:80/live/zh813567/VujHjvynTP/165419.m3u8
 
