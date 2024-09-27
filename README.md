@@ -8,7 +8,7 @@
 <li>Solución fácil para sus problemas</li>
 </ul>
 
-<h3>**Puedes contactar por MD o correo para conseguir la lista premium**</h3>
+<h3>Puedes contactar por MD o correo para conseguir la lista premium</h3>
 <ul>
 <li>Más de 50 canales españoles</li>
 <li>Fácil e íncreible</li>
