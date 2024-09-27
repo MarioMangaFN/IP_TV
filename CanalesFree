@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="la1" tvg-name="LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="General/RTVE",La 1 
+http://468515598262321277.ofgd919.xyz:80/live/zh813567/VujHjvynTP/321277.m3u8
+
+#EXTINF:-1 tvg-id="la2" tvg-name="LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="General/RTVE",La 2
+http://468515598262321280.ofgd919.xyz:80/live/zh813567/VujHjvynTP/321280.m3u8
+
+#EXTINF:-1 tvg-id="antena3" tvg-name="ANTENA 3 HD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="General/Atresmedia",Antena 3
+http://468515598262321106.ofgd919.xyz:80/live/zh813567/VujHjvynTP/321106.m3u8
+
+#EXTINF:-1 tvg-id="cuatro" tvg-name="CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="General/MediaSet",Cuatro
+http://468515598262321197.ofgd919.xyz:80/live/zh813567/VujHjvynTP/321197.m3u8
+
+#EXTINF:-1 tvg-id="telecinco" tvg-name="TELECINCO HD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="General/MediaSet",Telecinco
+http://468515598262321430.ofgd919.xyz:80/live/zh813567/VujHjvynTP/321430.m3u8
+
+#EXTINF:-1 tvg-id="lasexta" tvg-name="LA SEXTA HD" tvg-logo="https://miguia.tv/channels/big_100.png" group-title="General/Atresmedia",La Sexta
+http://468515598262321289.ofgd919.xyz:80/live/zh813567/VujHjvynTP/321289.m3u8
+
+#EXTINF:-1 tvg-id="24horas" tvg-name="24H HD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="General/RTVE",24H
+http://468515598262339730.ofgd919.xyz:80/live/zh813567/VujHjvynTP/339730.m3u8
+
+#EXTINF:-1 tvg-id="neox" tvg-name="NEOX HD" tvg-logo="http://fanc.tmsimg.com/assets/s78990_ll_h3_ab.png" group-title="Series/Atresmedia",Neox
+http://140877987176321375.ofkp0923.xyz:80/live/te411456/CCKKNSc7W9M/321375.m3u8
+
+#EXTINF:-1 tvg-id="nova" tvg-name="NOVA HD" tvg-logo="http://estoxy.net:80/images/045c7a2d9d35b9e26729d476428f4d7a.png" group-title="Series/Atresmedia",Nova
+http://140877987176321383.ofkp0923.xyz:80/live/te411456/CCKKNSc7W9M/321383.m3u8
+
+#EXTINF:-1 tvg-id="mega" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="Series/Atresmedia",Mega
+http://140877987176321300.ofkp0923.xyz:80/live/te411456/CCKKNSc7W9M/321300.m3u8
+
+#EXTINF:-1 tvg-id="fdf" tvg-name="FDF HD" tvg-logo="https://miguia.tv/channels/big_85.png" group-title="Series/Mediaset",FDF
+http://140877987176875644.ofkp0923.xyz:80/live/te411456/CCKKNSc7W9M/875644.m3u8
+
+#EXTINF:-1 tvg-id="divinity" tvg-name="DIVINITY HD" tvg-logo="https://miguia.tv/channels/big_76.png" group-title="Series/Mediaset",Divinity
+http://140877987176865848.ofkp0923.xyz:80/live/te411456/CCKKNSc7W9M/865848.m3u8
+
+#EXTINF:-1 tvg-id="energy" tvg-name="ENERGY HD" tvg-logo="https://miguia.tv/channels/big_82.png" group-title="Series/Mediaset",Energy
+http://140877987176877080.ofkp0923.xyz:80/live/te411456/CCKKNSc7W9M/877080.m3u8
+
+#EXTINF:-1 tvg-id="bemad" tvg-name="BEMAD HD" tvg-logo="https://miguia.tv/channels/big_277.png" group-title="Series/Mediaset",BeMad
+http://140877987176321126.ofkp0923.xyz:80/live/te411456/CCKKNSc7W9M/321126.m3u8
+
+#EXTINF:-1 tvg-id="dmax" tvg-name="DMAX HD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="Series/Mediaset",DMAX
+http://140877987176321226.ofkp0923.xyz:80/live/te411456/CCKKNSc7W9M/321226.m3u8
+
+#EXTINF:-1 tvg-id="ten" tvg-name="TEN HD" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/ten-tv.png" group-title="Series/Varios",Ten
+http://468515598262884778.ofgd919.xyz:80/live/zh813567/VujHjvynTP/884778.m3u8
+
+#EXTINF:-1 tvg-id="teledeporte" tvg-name="TELEDEPORTE HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TDEP" group-title="Deportivo/Varios",Teledeporte
+http://468515598262538770.ofgd919.xyz:80/live/zh813567/VujHjvynTP/538770.m3u8
+
+#EXTINF:-1 tvg-id="golplay" tvg-name="GOLPLAY HD" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="Deportivo/Varios",Gol
+http://140877987176340039.ofkp0923.xyz:80/live/te411456/CCKKNSc7W9M/340039.m3u8
+
+#EXTINF:-1 tvg-id="boing" tvg-name="BOING HD" tvg-logo="https://miguia.tv/channels/big_17.png" group-title="Niños",Boing
+http://468515598262321135.ofgd919.xyz:80/live/zh813567/VujHjvynTP/321135.m3u8
+
+#EXTINF:-1 tvg-id="clan" tvg-name="CLAN HD" tvg-logo="https://miguia.tv/channels/big_61.png" group-title="Niños",Clan
+http://468515598262859781.ofgd919.xyz:80/live/zh813567/VujHjvynTP/859781.m3u8
+
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://miguia.tv/channels/big_70.png" group-title="Niños",Disney Channel
+http://468515598262321215.ofgd919.xyz:80/live/zh813567/VujHjvynTP/321215.m3u8
